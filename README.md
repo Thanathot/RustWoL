@@ -1,0 +1,2 @@
+# RustWoL
+Wake on Lan
